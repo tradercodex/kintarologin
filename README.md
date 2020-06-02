@@ -1,1 +1,1 @@
- <p align="center"> <img src="img/portada.png" width="900"/></p>
+ <p align="center"> <img src="images/portada.png" width="900"/></p>
